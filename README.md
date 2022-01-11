@@ -1,5 +1,5 @@
-<h1>Hey there 👋, I'm Derrick</h1>
-<p>I'm a full-stack software engineer, who loves to ameliorate ideas from pixels and designs to scalable applications. I solve problems with code by developing and deploying end-to-end software applications and solutions.</h3>
+<h1>Hey there 👋, I'm Derrick Keteku</h1>
+<h5>I'm a full-stack software engineer, who loves to ameliorate ideas from pixels and designs to scalable applications. I solve problems with code by developing and deploying end-to-end software applications and solutions.</h3>
 
 - 🔭 I’m currently working on **React/Angular with Java(Spring) appplications**
 
