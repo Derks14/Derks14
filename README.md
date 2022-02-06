@@ -1,8 +1,8 @@
 <h1>Hey there 👋, I'm Derrick Keteku</h1>
 <h5>I'm a full-stack software engineer, who loves to ameliorate ideas from pixels and designs to scalable applications. I solve problems with code by developing and deploying end-to-end software applications and solutions.</h3>
 
-- 🔭 I’m currently working on **React/Angular with Java(Spring) appplications**
-
+- 🔭 I’m currently working on **a mobile application for Athletes, Spectators and Media for African Games hosted in Ghana**
+- 
 - 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **web applications focusing on rich user experiences**
