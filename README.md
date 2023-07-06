@@ -1,6 +1,6 @@
 <h2>Heyyy 👋🏽, Derrick here 😎</h1>
 
-<p> Magician | Chef | Keyboard player | 🔥 </p>
+<p> Magician    |   Chef   |   Keyboard player   |   🔥 </p>
 
 
 
